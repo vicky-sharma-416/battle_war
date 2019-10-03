@@ -1,0 +1,14 @@
+{
+  "name": "battle",
+  "version": "1.0.0",
+  "description": "Create api for battle",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.3",
+    "pg": "^7.12.1"
+  },
+  "devDependencies": {},
+  "author": "vikas_sharma",
+  "license": "ISC"
+}
